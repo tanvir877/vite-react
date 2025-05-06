@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tanvir877.github.io/vite-react",
+  "homepage": "https://tanvir877.github.io/vite-react/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
